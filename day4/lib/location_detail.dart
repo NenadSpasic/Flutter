@@ -78,5 +78,4 @@ class LocationDetail extends StatelessWidget {
  * fontovi se dodaju u pubspec.yaml fajlu
  * pod fonts i mora da se navede familija fonta, i sami fontovi
  * kao i tacna lokacija gde se nalaze fontovi i njihova debljina
- * 
  */
