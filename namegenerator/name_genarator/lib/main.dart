@@ -1,6 +1,3 @@
-// Add the English words package and generate a word pairing each
-// time the app is hot reloaded.
-
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
 
